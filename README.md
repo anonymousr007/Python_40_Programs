@@ -9,3 +9,7 @@ https://theartofdoingcs.com/
 Udemy course link:-
 
 https://www.udemy.com/course/the-art-of-doing/
+
+Want to Learn Python 
+
+http://learnpython.org/
